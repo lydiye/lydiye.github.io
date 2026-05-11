@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>Untitled (How does it feel?)</title>
+    <artist>D'Angelo</artist>
+    <album>Voodoo</album>
+    <link>https://www.youtube.com/watch?v=6QPQtguRdDs</link>
+  </track>
+  <track>
+    <title>Hyperballad</title>
+    <artist>Bjork</artist>
+    <album>Post</album>
+    <link>https://www.youtube.com/watch?v=kye1TOlAWWw</link>
+  </track>
+  <track>
+    <title>Shades of Cool</title>
+    <artist>Lana Del Rey</artist>
+    <album>Ultraviolence</album>
+    <link>https://open.spotify.com/track/4VSg5K1hnbmIg4PwRdY6wV?si=d5b7db4e9da74e5d</link>
+  </track>
+  <track>
+    <title>What It Feels Like for a Girl</title>
+    <artist>Madonna</artist>
+    <album>Music</album>
+    <link>https://open.spotify.com/track/6rQcK4xOzePDdrTg7Yv6d6?si=ca227cb50d854dff</link>
+  </track>
+  <track>
+    <title>Be Like a Woman</title>
+    <artist>Chris Rainbow</artist>
+    <album>White Trails</album>
+    <link>https://open.spotify.com/track/5Ctzx0mMiUPAu9JqbAOY9n?si=3f424d3a7e7c4c29</link>
+  </track>
+</playlist>

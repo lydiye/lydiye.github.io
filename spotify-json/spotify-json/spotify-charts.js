@@ -1,4 +1,5 @@
 const spotifyChart =
+
 {
   "countryFilters": [],
   "displayChart": {
